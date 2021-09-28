@@ -1,0 +1,13 @@
+E:\projects\TextFliper\bin\Debug\TextFliper.exe.config
+E:\projects\TextFliper\bin\Debug\TextFliper.exe
+E:\projects\TextFliper\bin\Debug\TextFliper.pdb
+E:\projects\TextFliper\obj\Debug\TextFliper.csprojAssemblyReference.cache
+E:\projects\TextFliper\obj\Debug\TextFliper.Form1.resources
+E:\projects\TextFliper\obj\Debug\TextFliper.Properties.Resources.resources
+E:\projects\TextFliper\obj\Debug\TextFliper.csproj.GenerateResource.cache
+E:\projects\TextFliper\obj\Debug\TextFliper.csproj.CoreCompileInputs.cache
+E:\projects\TextFliper\obj\Debug\TextFliper.exe
+E:\projects\TextFliper\obj\Debug\TextFliper.pdb
+E:\projects\TextFliper\TextFliper\TextFliper.exe.config
+E:\projects\TextFliper\TextFliper\TextFliper.exe
+E:\projects\TextFliper\TextFliper\TextFliper.pdb
